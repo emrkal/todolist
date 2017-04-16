@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: todolist
+Implementation-Version: 1.0
+Built-By: HAKIKAT
+Implementation-Vendor-Id: com.emrkal
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/todolist/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
